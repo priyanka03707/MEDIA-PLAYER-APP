@@ -19,3 +19,4 @@ One of the app’s core functionalities is its user-friendly and visually appeal
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/14f084ec-4784-4b0a-a464-1fe59dcc39ec)
